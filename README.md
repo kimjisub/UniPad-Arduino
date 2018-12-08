@@ -1,2 +1,2 @@
-# UniPad-arduino
+# UniPad-Arduino
 Connect arduino at UniPad
